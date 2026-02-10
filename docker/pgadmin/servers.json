@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Ticket System Database",
+      "Group": "Local Development",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "ticketdb",
+      "Username": "ticketuser",
+      "SSLMode": "prefer",
+      "Comment": "IT Ticket Management System PostgreSQL Database"
+    }
+  }
+}
