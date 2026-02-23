@@ -3,7 +3,11 @@
     "allow": [
       "Bash(chmod:*)",
       "Bash(find:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(npm install:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\hridi\\SDA-IT-Ticket-Management-System\\frontend\\src\\pages"
     ]
   }
 }
